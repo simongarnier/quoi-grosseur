@@ -1,4 +1,4 @@
 WHATSIZE
 =========================
 
-INF3105 - C++ class - First assigment
+INF3172 - C class - First assigment
