@@ -1,4 +1,4 @@
 WHATSIZE
 =========================
 
-INF3172 - C class - First assigment
+C class - First assigment
